@@ -15,8 +15,7 @@ import rx.Observable;
 
 public interface CommonApiService
 {
-   /* @GET("/opticals/view_all_users.php")
-    Observable<OpticalResponce> getUsers();
+   /*
 
     @GET("/opticals/view_all_users.php")
     Call<OpticalResponce>getTheUsers();*/
